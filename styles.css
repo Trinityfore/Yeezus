@@ -4,12 +4,13 @@
 }
 
 body {
-    background-color: #f0eff3;
+    background-color: #ffffff;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     font-family: Helvetica;
-
+    align-items: center;
+    justify-content: center;
 }
 
 header, footer {
@@ -19,8 +20,6 @@ header, footer {
     height: 5rem;
     color: #77da20;
     
-}
-
 main {
     flex-grow: 1;
 }
