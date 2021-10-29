@@ -16,3 +16,4 @@ An interactive site for random kanye west facts
 
 ## Future Enhancements
 -allow the user to share favorite facts via link or social media
+-allow the user to see a different photo with every click

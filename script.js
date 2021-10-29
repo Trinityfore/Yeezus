@@ -18,12 +18,11 @@ function getData() {
     .then(
         (data) => {
             console.log(data, 'kanye');
-            $quote.text(data.Quote);
+            $quote.text(data.quote);      
         }, (error) => {
             console.log (error);
         })
-    document.body.append($quote);
-    $(quote)
+    
     };
 
     
