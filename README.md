@@ -8,7 +8,8 @@ An interactive site for random kanye west facts
 -Kanye rest API
 
 ## Screenshots
-
+[Screenshot](#)
+[screenshot](#)
 
 ## Getting Started
 [click here](#) to see the site live

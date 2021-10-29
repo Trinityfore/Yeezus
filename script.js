@@ -9,7 +9,7 @@ const $quote = $('#quote');
 
 
 // event listners
-//$main.on('click', handleClick);
+$('input').on('click', getData)
 
 // functions
 function getData() {
@@ -17,16 +17,16 @@ function getData() {
     $.ajax(BASE_URL)
     .then(
         (data) => {
+            console.log(data, 'kanye');
             $quote.text(data.Quote);
         }, (error) => {
             console.log (error);
-        }
-        )}
-function handleClick(){
-    
-}
+        })
+    document.body.append($quote);
+    $(quote)
+    };
 
-// function render() {
-//     const kanyeFace = apiData 
     
 // };
+
+// getData();
