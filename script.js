@@ -5,21 +5,26 @@ const BASE_URL = 'https://api.kanye.rest/';
 let apiData;
 
 //cached variables
-//const $main = $('main');
+const $main = $('main');
+const $quote = $('#quote');
+
 
 // event listners
-//$main.on('click', 'article', handleClick);
+$main.on('click', 'article', handleClick);
 
 // functions
 function getData() {
     // get api data and assign it to our apiData state variable
-    $.ajax(BASE_URL)
-    .then(function(data) {
-        apiData = data;
+    $.ajax(BASE_URL, quote)
+    .then(function(quote) {
+        apiData = quote;
         render();
     }, function(error) {
 
     });
+}
+function handleClick(){
+    $
 }
 
 function render() {
