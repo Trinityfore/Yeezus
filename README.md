@@ -8,11 +8,12 @@ An interactive site for random kanye west facts
 -Kanye rest API
 
 ## Screenshots
-[Screenshot](#)
-[screenshot](#)
+[Screenshot, Homepage](https://i.imgur.com/uwppT8h.png)
+[screenshot, Quote 1](https://i.imgur.com/CELCLXe.png)
+[Screenshot, Quote 2](https://i.imgur.com/kXS1dAr.png)
 
 ## Getting Started
-[click here](#) to see the site live
+![click here](https://quotesbykanye.netlify.app/) to see the site live
 
 ## Future Enhancements
 -allow the user to share favorite facts via link or social media
