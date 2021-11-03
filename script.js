@@ -26,6 +26,3 @@ function getData() {
     };
 
     
-// };
-
-// getData();
