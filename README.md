@@ -8,8 +8,8 @@ An interactive site for random kanye west facts
 -Kanye rest API
 
 ## Screenshots
-[Screenshot, Homepage](https://i.imgur.com/uwppT8h.png)
-[screenshot, Quote 1](https://i.imgur.com/CELCLXe.png)
+![Screenshot, Homepage](https://i.imgur.com/uwppT8h.png)
+![screenshot, Quote 1](https://i.imgur.com/CELCLXe.png)
 ![Screenshot, Quote 2](https://i.imgur.com/kXS1dAr.png)
 
 ## Getting Started
